@@ -1,0 +1,41 @@
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# User files (exclude everything outside portfolio folder)
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.*
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+*.py
+temp_folder/
+jansori-git/
+ibisPaint/
+dashboard_temp.txt
+cd
+public/
