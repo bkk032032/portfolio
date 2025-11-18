@@ -230,7 +230,7 @@ section {
     font-size: 1.1rem;
     color: var(--text-light);
     line-height: 1.8;
-    text-align: center;
+    text-align: left;
 }
 
 .image-placeholder {
